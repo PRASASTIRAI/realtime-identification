@@ -1,0 +1,50 @@
+.heading {
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width:100%;
+    margin:0px;
+    box-shadow: 8px 8px 8px green;
+}
+
+.heading_div{
+    float:none;
+    background-color: honeydew;
+    padding: 10px;
+    border-radius: 30px;
+    color: black;
+    box-shadow: 8px 8px 8px green;
+    font-weight: bold;
+}
+.heading_div2{
+    box-shadow: 3px 3px 3px green;
+}
+
+.result_object{
+    box-shadow:5px 5px 5px  green;
+    border-radius: 15px;
+    font-size: medium;
+    font-weight: bolder;
+}
+.result_accuracy{
+    box-shadow:5px 5px 5px  green;
+    border-radius: 15px;
+    font-size: medium;
+    font-weight: bolder;
+}
+
+#footer_div{
+    position:fixed;
+    background-color: rgb(250, 208, 239);
+    width:100%;
+    color: darkred;
+    text-align: center;
+    bottom:0;
+}
+
+canvas{
+    border-radius: 25px;
+    box-shadow: 8px 8px 60px rgb(4, 150, 4);
+    border: 5px solid rgb(153, 211, 245);
+    margin-top: 140px;
+
+}
